@@ -19,7 +19,8 @@ permissions:
     - storage:app
   content:
     styles:
-      - 'unsafe-inline'  
+      - 'unsafe-inline'
 app:
   runtime:
     name: nodejs20.x
+  id: ari:cloud:ecosystem::app/8551a99e-1696-44ce-b66f-2fad22b30614
